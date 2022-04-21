@@ -1,1 +1,5 @@
-O sistema desenvolvido em C# trata de um comércio eletrônico com a temática Astronomia, envolvendo a venda de itens da área, como por exemplo telescópios, binóculos e souvenirs temáticos.
+<h1>Astronomia Sorridente</h1>
+
+O projeto Orientado a Objetos trata-se do sistema de comércio eletrônico *Astronomia Sorridente*.
+
+O sistema foi desenvolvido em C# durante o curso de Programação Orientada a Objetos. 
